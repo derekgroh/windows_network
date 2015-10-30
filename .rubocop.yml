@@ -1,0 +1,13 @@
+AllCops:
+  Exclude:
+    - recipes/setInterfaceName.rb
+    - recipes/setInterfaceIP.rb
+    - recipes/default.rb
+    - libraries/retrievedata.rb
+    - libraries/default.rb
+    - libraries/datatype2.rb
+    - libraries/datatype1.rb
+    - attributes/default.rb
+    - vagrantfile
+    - metadata.rb
+    
